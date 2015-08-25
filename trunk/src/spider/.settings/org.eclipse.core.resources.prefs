@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding/<project>=UTF-8
+encoding/spider_bing_translator.py=utf-8
+encoding/spider_crawl_thread.py=utf-8
+encoding/spider_data_base.py=utf-8
+encoding/spider_log_dayrotating_hdl.py=utf-8
+encoding/spider_main.py=utf-8
+encoding/spider_mysqldb.py=utf-8
+encoding/spider_schedule_manager.py=utf-8
+encoding/spider_urllib2_extend.py=utf-8
+encoding/spider_website_base.py=utf-8
+encoding/spider_website_booking.py=utf-8
